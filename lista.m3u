@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="C5N", C5N
-https://youtube.com/c/c5n/live
+#EXTINF:-1 tvg-id="C5N" tvg-logo="https://raw.githubusercontent.com/noticias/logos/c5n.png", C5N
+https://www.youtube.com/v/SF06Qy1Ct6Y
 
 #EXTINF:-1 tvg-id="C5N.ar@SD" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="News",C5N (1080p)
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8

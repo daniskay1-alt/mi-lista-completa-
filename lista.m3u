@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=VWhQ6xspnSc
 #EXTINF:-1 tvg-id="CronicaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cr%C3%B3nica_TV_logo_2021.svg/1200px-Cr%C3%B3nica_TV_logo_2021.svg.png", Crónica TV
 https://www.youtube.com/v/JC7f3EUDaqw
 
+#EXTINF:-1 tvg-id="TN" tvg-logo="https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/06/01144810/TN-Todo-Noticias.jpg" group-title="Noticias",TN Todo Noticias
+https://www.youtube.com/watch?v=cb12KmMMDJA
+
 #EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="News",A24 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true

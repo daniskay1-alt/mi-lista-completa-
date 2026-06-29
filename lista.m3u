@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=FEWZjXJ7M0c
 #EXTINF:-1 tvg-id="Canal 26" tvg-logo="https://i.imgur.com/9pvHDDG.png" group-title="Noticias",Canal 26
 https://www.youtube.com/watch?v=VLjvS3uflXc
 
-#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="News",A24 (720p)
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/jcWO4Wt.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="News",A24 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 

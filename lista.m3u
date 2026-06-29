@@ -50,6 +50,12 @@ http://playtvofclat.vip:80/live/Dzambrano1984/Dzambrano1984/435985.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbYHPNU.png", 🔴🔴🔴🔴 ESPAÑA 🔴🔴🔴🔴
 http://localhost
 
+#EXTINF:-1 tvg-id="" tvg-name="ONETORO prueba neoyjpw" tvg-logo="https://i.imgur.com/XSJeKi1.png" group-title="",ONETORO prueba neoyjpw
+http://neoyjpw.top:8080/4171762006381924/83d01ba54c75/55943
+
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE TV prueba neoyjpw" tvg-logo="https://i.imgur.com/tsO5GiG.png" group-title="",TOROLE TV prueba neoyjpw
+http://neoyjpw.top:8080/4171762006381924/83d01ba54c75/56009
+
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 

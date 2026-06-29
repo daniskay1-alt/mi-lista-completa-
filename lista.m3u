@@ -38,11 +38,14 @@ https://www.youtube.com/watch?v=nndzeKDSjuc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CIUDAD MAGAZINE prueba goldtv" tvg-logo="https://i.imgur.com/hhojwHd.png" group-title="Televisión",CIUDAD MAGAZINE prueba goldtv 
-http://playtvofclat.vip:80/live/Dzambrano1984/Dzambrano1984/86689.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="SONY prueba rlatinop" tvg-logo="https://i.imgur.com/9EQTmgw.png" group-title="Televisión",SONY prueba rlatinop
 http://rlatinop.com:8880/vipjasonmax15/U9B2JdKN67zB/414488
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO prueba goldtv" tvg-logo="https://i.imgur.com/d9A8CeU.png" group-title="",HBO prueba goldtv
+http://playtvofclat.vip:80/live/Dzambrano1984/Dzambrano1984/54.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 prueba goldtv" tvg-logo="https://i.imgur.com/mzHrp3B.png" group-title="",HBO 2 prueba goldtv
+http://playtvofclat.vip:80/live/Dzambrano1984/Dzambrano1984/435985.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbYHPNU.png", 🔴🔴🔴🔴 ESPAÑA 🔴🔴🔴🔴
 http://localhost

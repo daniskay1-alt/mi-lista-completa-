@@ -47,8 +47,47 @@ http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/712714.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Publica" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Argentina",TV Publica
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/712719.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="CIUDAD MAGAZINE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-0odv_2wgxZHAqMfic5Q9Qh9eKutgZ3F0A&s" group-title="Argentina",CIUDAD MAGAZINE HD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/712732.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver HD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/712741.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbYHPNU.png", 🔴🔴🔴🔴 ESPAÑA 🔴🔴🔴🔴
 http://localhost
+
+#EXTINF:-1 tvg-id="STARHD" tvg-name="STAR TVE FHD" tvg-logo="https://i.postimg.cc/853dgb1R/Star-TVE-logo-300x169.png" group-title="ESPAÑA",STAR TVE FHD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414756.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="ESPAÑA",LA 1 FHD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414798.ts
+
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="ESPAÑA",LA 2 FHD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414795.ts
+
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3 SD" tvg-logo="https://i.postimg.cc/85JjnqB4/1200px-Antena-3-2017-svg.png" group-title="ESPAÑA",ANTENA 3 SD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414794.ts
+
+#EXTINF:-1 tvg-id="Telecinco" tvg-name="TELECINCO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="ESPAÑA",TELECINCO FHD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414786.ts
+
+#EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA FHD" tvg-logo="https://i.postimg.cc/XN2vFzQH/712px-La-Sexta-A3-M-svg.png" group-title="ESPAÑA",LA SEXTA FHD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414783.ts
+
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/960px-Logo_Canal_24_horas.svg.png" group-title="ESPAÑA",24 HORAS FHD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414778.ts
+
+#EXTINF:-1 xui-id="356921" tvg-id="" tvg-name="ESP | TVE internacional" tvg-logo="https://immaa.xyz/TDDtveeee.png" group-title="✅ESPAÑA",ESP | TVE internacional
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtEzZlqPWqFIz8IkrnMT-hsgpu7E_hm9hcUo-ng4LjJTUY/m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8

@@ -53,7 +53,7 @@ http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/712732.ts
 #EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver HD
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/712741.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cbYHPNU.png", 🔴🔴🔴🔴 ESPAÑA 🔴🔴🔴🔴
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cbYHPNU.png", 🔴🔴🔴🔴ESPAÑA🔴🔴🔴🔴
 http://localhost
 
 #EXTINF:-1 tvg-id="STARHD" tvg-name="STAR TVE FHD" tvg-logo="https://i.postimg.cc/853dgb1R/Star-TVE-logo-300x169.png" group-title="ESPAÑA",STAR TVE FHD
@@ -83,12 +83,124 @@ https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtEzZlqPWqFIz8IkrnMT-hsgpu7E_
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="ESPAÑA | ONE TORO" tvg-logo="http://miarea.vip:8080/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="TV || ESPAÑA",ESPAÑA | ONE TORO
 http://fivetv.org:25461/streaming04/tenis2050/186221
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS",ES: TOROLE TV
+http://neopneojh.top:8080/9061778234729/7099ccfd1d6a/56009
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hSrZi4q.png", ⭕⭕⭕⭕MEXICO⭕⭕⭕⭕
+http://localhost
+
+#EXTINF:-1 tvg-id="" tvg-name="LAS ESTRELLAS HD" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="ENTRETENIMIENTO",LAS ESTRELLAS HD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/79079.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="https://i.postimg.cc/N0CRF88c/Logo-ADN-40.png" group-title="MEXICO",ADN 40
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/755497.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://i.postimg.cc/cJFBYGST/Logo-de-Azteca-7-2024-(cropped).png" group-title="MEXICO",AZTECA 7
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/755499.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO HD" tvg-logo="https://i.postimg.cc/KjxcywK8/Azteca-Uno2023.png" group-title="MEXICO",AZTECA UNO HD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/755503.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX: MULTIMEDIOS" tvg-logo="https://docdog.top/logo/countries/mexico/multimedios-mx.png" group-title="LAME | MEXICO",MEX: MULTIMEDIOS
+http://neopneojh.top:8080/9061778234729/7099ccfd1d6a/52556
+
+#EXTINF:-1 tvg-id="" tvg-name="N+ Media" tvg-logo="https://i.postimg.cc/QC61vp6K/images-q-tbn-ANd9Gc-Qbb33fl-Frd-OG2h-Sv-VBrv-EVzc0-W-S-kuhh-OQ-s.png" group-title="MEXICO",N+ Media
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/755548.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="http://vik384kdmf.ddns.net:8080/images/016f5f663652bb9f66f2eb264ea9a2e1.png" group-title="MEXICO",Foro TV
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/755529.ts
+
+#EXTINF:-1 xui-id="10950" tvg-id="" tvg-name="MX | NU9VE TV  HD" tvg-logo="https://i.imgur.com/ZLLlehb.png" group-title="✅MEXICO",MX | NU9VE TV  HD
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE9e01xJWXTdh1ab1CM_lG5vjHBkgsj4W5tBeBiF3kdk8/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV HD" tvg-logo="https://i.postimg.cc/fygDGLYN/Logo-Imagen-TV-MX.png" group-title="MEXICO",IMAGEN TV HD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/755530.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MX| CANAL 5" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="TV || MEXICO",MX| CANAL 5
+http://fivetv.org:25461/streaming04/tenis2050/186810
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ONCE" tvg-logo="https://i.postimg.cc/sDpj2VP1/Canal-Once-logo-2025.png" group-title="MEXICO",CANAL ONCE
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/755517.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS CDMX" tvg-logo="https://i.postimg.cc/6Q7jcQpG/Multimedios-Canal-Seis-Logo.png" group-title="MEXICO",MULTIMEDIOS CDMX
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/755541.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lg1T3Wl.png", ▶️▶️▶️▶️MUSICA▶️▶️▶️▶️
+http://localhost
+
+#EXTINF:-1 xui-id="869377" tvg-id="" tvg-name="MU | TELEHIT OP2" tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="✅MUSICA",MU | TELEHIT OP2
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE-oC-OlXeEDoz0RNM3WkoqeL_VjTYIempfk4vuTEO7NH/m3u8
+
+#EXTINF:-1 xui-id="869380" tvg-id="" tvg-name="MU | TELEHIT MUSICA OP2" tvg-logo="https://i.ibb.co/YBjRdBK3/Telehit-M-sica-logo.png" group-title="✅MUSICA",MU | TELEHIT MUSICA OP2
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE-oC-OlXeEDoz0RNM3Wkoqfm6QrA6jMJ_-vJun_0Ry-2/m3u8
+
+#EXTINF:-1 xui-id="869392" tvg-id="" tvg-name="MU | HTV OP2" tvg-logo="https://w7.pngwing.com/pngs/725/89/png-transparent-television-channel-htv-latin-america-music-republic-broadcasting-network-purple-television-violet-thumbnail.png" group-title="✅MUSICA",MU | HTV OP2
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE-oC-OlXeEDoz0RNM3WkoqfkGqMjhOIsIZiQwAcQBUPu/m3u8
+
+#EXTINF:-1 xui-id="869395" tvg-id="" tvg-name="MU | BANDAMAX OP1" tvg-logo="https://yt3.googleusercontent.com/r_EYNVfFlpS7GSD8jcZ2XqdfGnmalBNzyFDnXZ0mF-S6C57-QMS4Z9oGKTbPCEM42QICBxA_Fg=s900-c-k-c0x00ffffff-no-rj" group-title="✅MUSICA",MU | BANDAMAX OP1
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE-oC-OlXeEDoz0RNM3WkoqfoYS0V2wjpKuQE8UqljLtK/m3u8
+
+#EXTINF:-1 xui-id="869397" tvg-id="" tvg-name="MU | EXA TV OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png" group-title="✅MUSICA",MU | EXA TV OP1
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE-oC-OlXeEDoz0RNM3WkoqcsY6Sxveny1JgfCEOZ-aJq/m3u8
+
+#EXTINF:-1 xui-id="869408" tvg-id="" tvg-name="MU | VEVO Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="✅MUSICA",MU | VEVO Country
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMla-3ShBw7AP4FE9nlTMxoc/m3u8
+
+#EXTINF:-1 xui-id="869413" tvg-id="" tvg-name="MU | MI MUSICA HITS" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/MUSICA-HITS.png" group-title="✅MUSICA",MU | MI MUSICA HITS
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMmGafa0QRA8nKiUSCbNfYB5/m3u8
+
+#EXTINF:-1 xui-id="869414" tvg-id="" tvg-name="MU | MI MUSICA POPULAR" tvg-logo="https://www.latingroup.us/images/logommpo.png" group-title="✅MUSICA",MU | MI MUSICA POPULAR
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMkWFHQ4N9iYev6VGlLbyK1G/m3u8
+
+#EXTINF:-1 xui-id="869415" tvg-id="" tvg-name="MU | MI MUSICA REGGAETON" tvg-logo="https://www.latingroup.us/images/logommr.png" group-title="✅MUSICA",MU | MI MUSICA REGGAETON
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMl72FgyIJkCaq2f2vEM6XOj/m3u8
+
+#EXTINF:-1 xui-id="869417" tvg-id="" tvg-name="MU | MI MUSICA SALSA" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/MiMusicaSalsa.png" group-title="✅MUSICA",MU | MI MUSICA SALSA
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMmADHwNq0GV7tlgsjrR-PCm/m3u8
+
+#EXTINF:-1 xui-id="869420" tvg-id="" tvg-name="MU | RUMBA TV" tvg-logo="https://static.wixstatic.com/media/8d94ed_d280d81e7c3b44fa83c600051360daf8~mv2.png/v1/fill/w_285,h_284,al_c,q_85,enc_avif,quality_auto/8d94ed_d280d81e7c3b44fa83c600051360daf8~mv2.png" group-title="✅MUSICA",MU | RUMBA TV
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMnZXCGjnCezeHF97vXcvmpT/m3u8
+
+#EXTINF:-1 xui-id="869437" tvg-id="" tvg-name="MU | POWER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUpmR-NoLK9Gz_6PPdxsXydJqP7TCfEFachg&s" group-title="✅MUSICA",MU | POWER TV
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMkWWIWpPDtLpwHbL_zEK1_8/m3u8
+
+#EXTINF:-1 xui-id="877751" tvg-id="" tvg-name="MU | CORAZON TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3767-800x450-FFFFFF.jpg" group-title="✅MUSICA",MU | CORAZON TV
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE28DAHsODMGWrWDXJx4rd4p0_tVbP1Y5PrlAi-3cQBFm/m3u8
+
+#EXTINF:-1 xui-id="906881" tvg-id="" tvg-name="MU | URBANO" tvg-logo="http://imageserver.srv.telecable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.telecable.i.mtvreg.com%2Fcache%2Flogos512%2FURBANO.png&width=50&height=50" group-title="✅MUSICA",MU | URBANO
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtEyymZvJd6eevfZrxKKgDxa8sqQfLVNEccp2zLLnJr0jj/m3u8
+
+#EXTINF:-1 xui-id="939089" tvg-id="" tvg-name="MU | VENUS MEDIA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZWMwLdm_Ag4eNCbhhowHXvSupNE-bCpsLWmZte1tLLq8=s900-c-k-c0x00ffffff-no-rj" group-title="✅MUSICA",MU | VENUS MEDIA
+https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtEygW4YiKZOmTMy77nEP_sHVdECgcHTjPO2oygs7SdtJt/m3u8
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cbYHPNU.png", 🔴🔴🔴🔴ESPAÑA INTERIOR🔴🔴🔴🔴
+http://localhost
 
 #EXTINF:-1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
@@ -408,7 +520,7 @@ https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ Hispanic America (720p)
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
-#EXTINF:-1, 🔵🔵 ARGENTINA INTERIOR 🔵🔵
+#EXTINF:-1, 🔵🔵ARGENTINA INTERIOR🔵🔵
 http://localhost
 
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes (480p) [Not 24/7]
@@ -616,7 +728,7 @@ https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 
-#EXTINF:-1, ❌❌❌❌ ADULTOS ❌❌❌❌
+#EXTINF:-1, ❌❌❌❌ADULTOS❌❌❌❌
 http://localhost
 
 #EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="Adultos",AdultIPTV.net Big Dick (720p)
@@ -748,8 +860,6 @@ http://cdn.adultiptv.net/cuckold.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="945" tvg-name="Lesbian" tvg-logo="https://www.m3u.cl/logo/945_Lesbian.png" group-title="Adultos", Lesbian  | US
 http://cdn.adultiptv.net/lesbian.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lg1T3Wl.png", ▶️▶️▶️▶️MUSICA▶️▶️▶️▶️
-http://localhost
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hSrZi4q.png", ⭕⭕⭕⭕MEXICO⭕⭕⭕⭕
-http://localhost
+
+

@@ -74,8 +74,8 @@ http://planettvweb.com:8091/SandraPrudente/RAmt2784/12108
 #EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA HD" tvg-logo="https://i.postimg.cc/XN2vFzQH/712px-La-Sexta-A3-M-svg.png" group-title="ESPAÑA",LA SEXTA HD
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414784.ts
 
-#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/960px-Logo_Canal_24_horas.svg.png" group-title="ESPAÑA",24 HORAS FHD
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414778.ts
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/960px-Logo_Canal_24_horas.svg.png" group-title="ESPAÑA",24H
+http://son1kids.online/live/AlexGomez/Al3008goM/414781.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TVE INTERNACIONAL" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" group-title="ESPAÑA",TVE INTERNACIONAL
 http://son1kids.online/live/AlexGomez/Al3008goM/684895.ts

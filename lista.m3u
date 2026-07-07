@@ -68,8 +68,8 @@ http://playtvofclat.vip:80/live/Dzambrano1984/Dzambrano1984/110043.ts
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="ANTENA 3 SD" tvg-logo="https://i.postimg.cc/85JjnqB4/1200px-Antena-3-2017-svg.png" group-title="ESPAÑA",ANTENA 3 SD
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414794.ts
 
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="ESPAÑA",TELECINCO HD
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414787.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="ESPAÑA",Telecinco HD
+http://planettvweb.com:8091/SandraPrudente/RAmt2784/12108
 
 #EXTINF:-1 tvg-id="La Sexta" tvg-name="LA SEXTA HD" tvg-logo="https://i.postimg.cc/XN2vFzQH/712px-La-Sexta-A3-M-svg.png" group-title="ESPAÑA",LA SEXTA HD
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414784.ts

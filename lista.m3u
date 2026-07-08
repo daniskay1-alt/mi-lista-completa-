@@ -53,6 +53,11 @@ http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/712732.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR l VOLVER HD " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ky2Var5cUn9XL8XMG36xGv7TgIlunPgl01BD66X7H--M8=s900-c-k-c0x00ffffff-no-rj" group-title="❎ ARGENTlNA ❎",AR l VOLVER HD
 http://mundo2.vip:80/live/12MPremiumJul56/wc5mwvgvLH/140128.ts
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ngj0mbw.png", 🔴🔴PELICULAS VAQUEROS🔴🔴
 http://localhost
 
@@ -139,65 +144,52 @@ http://elpapanatas.space:8080/Felipe123/Felipe123/243629
 #EXTINF:-1 xm-ott="{ID}" tvg-id="multimedios.mx" tvg-name="MX | MULTIMEDIOS CDMX" tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/company/11834-1329_company_import.png" group-title="MÉXICO",MX | MULTIMEDIOS CDMX
 http://livetv-plus.com:8880/live/259Gustavo/JYTFE/415409.ts
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lg1T3Wl.png", ▶️▶️▶️▶️MUSICA▶️▶️▶️▶️
 http://localhost
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MI MUSICA" tvg-logo="" group-title="MUSICA HITS
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMmGafa0QRA8nKiUSCbNfYB5/m3u8
-#EXTINF:-1 xui-id="869414" tvg-id="" tvg-name="MU | MI MUSICA POPULAR" tvg-logo="https://www.latingroup.us/images/logommpo.png" group-title="✅MUSICA",MU | MI MUSICA POPULAR
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMkWFHQ4N9iYev6VGlLbyK1G/m3u8
-#EXTINF:-1 xui-id="869415" tvg-id="" tvg-name="MU | MI MUSICA REGGAETON" tvg-logo="https://www.latingroup.us/images/logommr.png" group-title="✅MUSICA",MU | MI MUSICA REGGAETON
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMl72FgyIJkCaq2f2vEM6XOj/m3u8
-#EXTINF:-1 xui-id="869417" tvg-id="" tvg-name="MU | MI MUSICA SALSA" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/MiMusicaSalsa.png" group-title="✅MUSICA",MU | MI MUSICA SALSA
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMmADHwNq0GV7tlgsjrR-PCm/m3u8
-#EXTINF:-1 xui-id="869420" tvg-id="" tvg-name="MU | RUMBA TV" tvg-logo="https://static.wixstatic.com/media/8d94ed_d280d81e7c3b44fa83c600051360daf8~mv2.png/v1/fill/w_285,h_284,al_c,q_85,enc_avif,quality_auto/8d94ed_d280d81e7c3b44fa83c600051360daf8~mv2.png" group-title="✅MUSICA",MU | RUMBA TV
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMnZXCGjnCezeHF97vXcvmpT/m3u8
-#EXTINF:-1 xui-id="869437" tvg-id="" tvg-name="MU | POWER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUpmR-NoLK9Gz_6PPdxsXydJqP7TCfEFachg&s" group-title="✅MUSICA",MU | POWER TV
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMkWWIWpPDtLpwHbL_zEK1_8/m3u8
-#EXTINF:-1 xui-id="877751" tvg-id="" tvg-name="MU | CORAZON TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3767-800x450-FFFFFF.jpg" group-title="✅MUSICA",MU | CORAZON TV
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE28DAHsODMGWrWDXJx4rd4p0_tVbP1Y5PrlAi-3cQBFm/m3u8
-#EXTINF:-1 xui-id="906881" tvg-id="" tvg-name="MU | URBANO" tvg-logo="http://imageserver.srv.telecable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.telecable.i.mtvreg.com%2Fcache%2Flogos512%2FURBANO.png&width=50&height=50" group-title="✅MUSICA",MU | URBANO
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtEyymZvJd6eevfZrxKKgDxa8sqQfLVNEccp2zLLnJr0jj/m3u8
-#EXTINF:-1 xui-id="939089" tvg-id="" tvg-name="MU | VENUS MEDIA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZWMwLdm_Ag4eNCbhhowHXvSupNE-bCpsLWmZte1tLLq8=s900-c-k-c0x00ffffff-no-rj" group-title="✅MUSICA",MU | VENUS MEDIA
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtEygW4YiKZOmTMy77nEP_sHVdECgcHTjPO2oygs7SdtJt/m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MU | SPIRIT TV" tvg-logo="" group-title="🎵 |  MUSICA",MU | SPIRIT TV
-http://libertadtv.lat:8080/dGtWU1dlRzdHY1ZSYitRVWFEc2k5dmtPdVU0VmxLNUlWV3dXTUh5a21FTT0
-#EXTINF:-1 tvg-id="" tvg-name="MU | V2BEAT" tvg-logo="" group-title="🎵 |  MUSICA",MU | V2BEAT
-http://libertadtv.lat:8080/dGtWU1dlRzdHY1ZSYitRVWFEc2k5dllwOE5ydGVFTzdGaDBFaERqdGVpdz0
 #EXTINF:-1 tvg-id="" tvg-name="La Kalle (720p)" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="🎵 |  MUSICA",La Kalle (720p)
 http://libertadtv.lat:8080/dGtWU1dlRzdHY1ZSYitRVWFEc2k5bXROYmtGdGh4ZFJVSFl6dnowamsraz0
+
 #EXTINF:-1 tvg-id="" tvg-name="MUS-Bandamax (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/6f4922f45568161a8cdf4ad2299f6d23.png" group-title="CANALES-MUSICA",MUS-Bandamax (M)(SD)
 http://vipxtreamx.com:8080/LuisNino9317/7a13c8ac003d/8307
+
 #EXTINF:-1 tvg-id="" tvg-name="MUS-Bandamax (TV)(720)" tvg-logo="" group-title="CANALES-MUSICA",MUS-Bandamax (TV)(720)
 http://vipxtreamx.com:8080/LuisNino9317/7a13c8ac003d/8308
+
 #EXTINF:-1 tvg-id="" tvg-name="MUS-Telehit (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-MUSICA",MUS-Telehit (M)(SD)
 http://vipxtreamx.com:8080/LuisNino9317/7a13c8ac003d/8316
+
 #EXTINF:-1 tvg-id="" tvg-name="MUS-Teleritmo (L)(SD)" tvg-logo="http://23.153.216.121:25461/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="CANALES-MUSICA",MUS-Teleritmo (L)(SD)
 http://vipxtreamx.com:8080/LuisNino9317/7a13c8ac003d/8318
-#EXTINF:-1 tvg-id="" tvg-name="QUIERO MUSICA TV" tvg-logo="https://www.qmusica.tv/qmusica_logo_1.png" group-title="TV || MUSICA",QUIERO MUSICA TV
-http://fivetv.org:25461/streaming04/tenis2050/102105
-#EXTINF:-1 tvg-id="" tvg-name="Telehit HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="TV || MUSICA",Telehit HD
-http://fivetv.org:25461/streaming04/tenis2050/186794
+
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MU | TELEHIT MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" group-title="MÚSICA",MU | TELEHIT MÚSICA
 http://livetv-plus.com:8880/live/259Gustavo/JYTFE/199531.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Urbano TV " tvg-logo="https://image.roku.com/developer_channels/prod/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png" group-title="MUSICA",Urbano TV
 http://planettvweb.com:8091/SandraPrudente/RAmt2784/11881
+
 #EXTINF:-1 tvg-id="" tvg-name="Telehit HD" tvg-logo="https://i.postimg.cc/cCwc8QNg/images-q-tbn-ANd9Gc-Tdj9Acdkh-O4o4Q86Vqy0ic-CPd581v-HORB8Aw-s.png" group-title="MUSICA",Telehit HD
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/86461.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/890px-Htv_logo.svg.png" group-title="MUSICA",HTV
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/86480.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Quiero Musica" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.57e29c46a43b8_QuieroMsicaTV.png.c8744ad128faccb060fc71fa96ba294e.png" group-title="MUSICA",Quiero Musica
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/86482.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Bandamax HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="MUSICA",Bandamax HD
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/122553.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Bonus Project 3 (Old skool)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA",Bonus Project 3 (Old skool)
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/235609.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX | MTV Live" tvg-logo="http://51.222.43.170:8001/images/1d5288594747ab7bc87ae79442422726.png" group-title="→ MÚSICA ← ",MX | MTV Live
-http://23.153.217.158:8080/live/975275242tv1/ip4fkxw6/47265.m3u8
+
 
 
 

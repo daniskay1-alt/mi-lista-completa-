@@ -56,6 +56,9 @@ http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/712741.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbYHPNU.png", 🔴🔴🔴🔴ESPAÑA🔴🔴🔴🔴
 http://localhost
 
+#EXTINF:-1 tvg-id="" tvg-name="ONETORO FHD" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="DEPORTES ESPAÑA",ONETORO FHD
+http://son1kids.online/live/AlexGomez/Al3008goM/327969.ts
+
 #EXTINF:-1 tvg-id="STARHD" tvg-name="STAR TVE FHD" tvg-logo="https://i.postimg.cc/853dgb1R/Star-TVE-logo-300x169.png" group-title="ESPAÑA",STAR TVE FHD
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414756.ts
 
@@ -80,8 +83,7 @@ http://son1kids.online/live/AlexGomez/Al3008goM/414781.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVE INTERNACIONAL" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" group-title="ESPAÑA",TVE INTERNACIONAL
 http://son1kids.online/live/AlexGomez/Al3008goM/684895.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="OneToro TV FHD |opc-2|" tvg-logo="https://play-lh.googleusercontent.com/7BADGsWeaNJthEqqn5SyFAX3PGCXkujj-_1hQNq5AB804jlQ2HPO8WVFJ5qu-VOhyg" group-title="⏩ESP | Caza y Toros⏪",OneToro TV FHD |opc-2|
-http://playtvofclat.vip:80/live/Dzambrano1984/Dzambrano1984/316540.ts
+
 
 
 

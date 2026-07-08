@@ -146,7 +146,7 @@ http://localhost
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MU | MI MUSICA HITS" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/MUSICA-HITS.png" group-title="MUSICA HITS
+#EXTINF:-1 tvg-id="" tvg-name="MI MUSICA" tvg-logo="" group-title="MUSICA HITS
 https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMmGafa0QRA8nKiUSCbNfYB5/m3u8
 #EXTINF:-1 xui-id="869414" tvg-id="" tvg-name="MU | MI MUSICA POPULAR" tvg-logo="https://www.latingroup.us/images/logommpo.png" group-title="✅MUSICA",MU | MI MUSICA POPULAR
 https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMkWFHQ4N9iYev6VGlLbyK1G/m3u8

@@ -53,6 +53,20 @@ http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/712732.ts
 #EXTINF:-1 tvg-id="" tvg-name="Volver HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Volver_2016.png/revision/latest?cb=20210525002558&path-prefix=es" group-title="Argentina",Volver HD
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/712741.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ngj0mbw.png", 🔴🔴PELICULAS VAQUEROS🔴🔴
+http://localhost
+
+#EXTINF:-1 tvg-id="Canal 13 de Panamá (Telemetro).pa" tvg-name="AMC WESTERN FHD" tvg-logo="https://i.postimg.cc/jdwLD2xd/AMCWESTERN-COLOR-1.png" group-title="CINE Y SERIES ESPAÑA",AMC WESTERN FHD
+http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/414752.ts
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbYHPNU.png", 🔴🔴🔴🔴ESPAÑA🔴🔴🔴🔴
 http://localhost
 

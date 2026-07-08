@@ -86,6 +86,11 @@ http://son1kids.online/live/AlexGomez/Al3008goM/684895.ts
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSrZi4q.png", ⭕⭕⭕⭕MEXICO⭕⭕⭕⭕
 http://localhost
 
@@ -121,64 +126,6 @@ http://livetv-plus.com:8880/live/259Gustavo/JYTFE/415409.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lg1T3Wl.png", ▶️▶️▶️▶️MUSICA▶️▶️▶️▶️
 http://localhost
-
-#EXTINF:-1 xui-id="869377" tvg-id="" tvg-name="MU | TELEHIT OP2" tvg-logo="https://pbs.twimg.com/profile_images/1319145411559514112/p9iicJ7u_400x400.jpg" group-title="✅MUSICA",MU | TELEHIT OP2
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE-oC-OlXeEDoz0RNM3WkoqeL_VjTYIempfk4vuTEO7NH/m3u8
-
-#EXTINF:-1 xui-id="869380" tvg-id="" tvg-name="MU | TELEHIT MUSICA OP2" tvg-logo="https://i.ibb.co/YBjRdBK3/Telehit-M-sica-logo.png" group-title="✅MUSICA",MU | TELEHIT MUSICA OP2
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE-oC-OlXeEDoz0RNM3Wkoqfm6QrA6jMJ_-vJun_0Ry-2/m3u8
-
-#EXTINF:-1 xui-id="869392" tvg-id="" tvg-name="MU | HTV OP2" tvg-logo="https://w7.pngwing.com/pngs/725/89/png-transparent-television-channel-htv-latin-america-music-republic-broadcasting-network-purple-television-violet-thumbnail.png" group-title="✅MUSICA",MU | HTV OP2
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE-oC-OlXeEDoz0RNM3WkoqfkGqMjhOIsIZiQwAcQBUPu/m3u8
-
-#EXTINF:-1 xui-id="869395" tvg-id="" tvg-name="MU | BANDAMAX OP1" tvg-logo="https://yt3.googleusercontent.com/r_EYNVfFlpS7GSD8jcZ2XqdfGnmalBNzyFDnXZ0mF-S6C57-QMS4Z9oGKTbPCEM42QICBxA_Fg=s900-c-k-c0x00ffffff-no-rj" group-title="✅MUSICA",MU | BANDAMAX OP1
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE-oC-OlXeEDoz0RNM3WkoqfoYS0V2wjpKuQE8UqljLtK/m3u8
-
-#EXTINF:-1 xui-id="869397" tvg-id="" tvg-name="MU | EXA TV OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png" group-title="✅MUSICA",MU | EXA TV OP1
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE-oC-OlXeEDoz0RNM3WkoqcsY6Sxveny1JgfCEOZ-aJq/m3u8
-
-#EXTINF:-1 xui-id="869408" tvg-id="" tvg-name="MU | VEVO Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="✅MUSICA",MU | VEVO Country
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMla-3ShBw7AP4FE9nlTMxoc/m3u8
-
-#EXTINF:-1 xui-id="869413" tvg-id="" tvg-name="MU | MI MUSICA HITS" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/MUSICA-HITS.png" group-title="✅MUSICA",MU | MI MUSICA HITS
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMmGafa0QRA8nKiUSCbNfYB5/m3u8
-
-#EXTINF:-1 xui-id="869414" tvg-id="" tvg-name="MU | MI MUSICA POPULAR" tvg-logo="https://www.latingroup.us/images/logommpo.png" group-title="✅MUSICA",MU | MI MUSICA POPULAR
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMkWFHQ4N9iYev6VGlLbyK1G/m3u8
-
-#EXTINF:-1 xui-id="869415" tvg-id="" tvg-name="MU | MI MUSICA REGGAETON" tvg-logo="https://www.latingroup.us/images/logommr.png" group-title="✅MUSICA",MU | MI MUSICA REGGAETON
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMl72FgyIJkCaq2f2vEM6XOj/m3u8
-
-#EXTINF:-1 xui-id="869417" tvg-id="" tvg-name="MU | MI MUSICA SALSA" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/03/MiMusicaSalsa.png" group-title="✅MUSICA",MU | MI MUSICA SALSA
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMmADHwNq0GV7tlgsjrR-PCm/m3u8
-
-#EXTINF:-1 xui-id="869420" tvg-id="" tvg-name="MU | RUMBA TV" tvg-logo="https://static.wixstatic.com/media/8d94ed_d280d81e7c3b44fa83c600051360daf8~mv2.png/v1/fill/w_285,h_284,al_c,q_85,enc_avif,quality_auto/8d94ed_d280d81e7c3b44fa83c600051360daf8~mv2.png" group-title="✅MUSICA",MU | RUMBA TV
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMnZXCGjnCezeHF97vXcvmpT/m3u8
-
-#EXTINF:-1 xui-id="869437" tvg-id="" tvg-name="MU | POWER TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUpmR-NoLK9Gz_6PPdxsXydJqP7TCfEFachg&s" group-title="✅MUSICA",MU | POWER TV
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE7ydpMNsp5piP3Nca-aZwMkWWIWpPDtLpwHbL_zEK1_8/m3u8
-
-#EXTINF:-1 xui-id="877751" tvg-id="" tvg-name="MU | CORAZON TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3767-800x450-FFFFFF.jpg" group-title="✅MUSICA",MU | CORAZON TV
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtE28DAHsODMGWrWDXJx4rd4p0_tVbP1Y5PrlAi-3cQBFm/m3u8
-
-#EXTINF:-1 xui-id="906881" tvg-id="" tvg-name="MU | URBANO" tvg-logo="http://imageserver.srv.telecable.i.mtvreg.com/png?image=http%3A%2F%2Fstatic.srv.telecable.i.mtvreg.com%2Fcache%2Flogos512%2FURBANO.png&width=50&height=50" group-title="✅MUSICA",MU | URBANO
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtEyymZvJd6eevfZrxKKgDxa8sqQfLVNEccp2zLLnJr0jj/m3u8
-
-#EXTINF:-1 xui-id="939089" tvg-id="" tvg-name="MU | VENUS MEDIA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nZWMwLdm_Ag4eNCbhhowHXvSupNE-bCpsLWmZte1tLLq8=s900-c-k-c0x00ffffff-no-rj" group-title="✅MUSICA",MU | VENUS MEDIA
-https://skynetmax.live:8443/play/YK2zoBEf8XqHw46UrQFtEygW4YiKZOmTMy77nEP_sHVdECgcHTjPO2oygs7SdtJt/m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

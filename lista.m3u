@@ -129,9 +129,6 @@ http://son1kids.online/live/AlexGomez/Al3008goM/755505.ts
 #EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="http://vik384kdmf.ddns.net:8080/images/016f5f663652bb9f66f2eb264ea9a2e1.png" group-title="MEXICO",Foro TV
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/755529.ts
 
-#EXTINF:-1 xui-id="3074" tvg-id="" tvg-name="MX: NU9VE Canal 9 Nueve" tvg-logo="https://immaa.xyz/siiinloggg.png" group-title="México",MX: NU9VE Canal 9 Nueve
-http://gultv.com:8080/play/Ms0hhN0VTgrC5frsdChyJK_HmhdNWAYsxsS4sO5QfVA/m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV HD" tvg-logo="https://i.postimg.cc/fygDGLYN/Logo-Imagen-TV-MX.png" group-title="MEXICO",IMAGEN TV HD
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/755530.ts
 
@@ -160,9 +157,6 @@ http://libertadtv.lat:8080/dGtWU1dlRzdHY1ZSYitRVWFEc2k5bXROYmtGdGh4ZFJVSFl6dnowa
 #EXTINF:-1 tvg-id="" tvg-name="MUS-Bandamax (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/6f4922f45568161a8cdf4ad2299f6d23.png" group-title="CANALES-MUSICA",MUS-Bandamax (M)(SD)
 http://vipxtreamx.com:8080/LuisNino9317/7a13c8ac003d/8307
 
-#EXTINF:-1 tvg-id="" tvg-name="MUS-Bandamax (TV)(720)" tvg-logo="" group-title="CANALES-MUSICA",MUS-Bandamax (TV)(720)
-http://vipxtreamx.com:8080/LuisNino9317/7a13c8ac003d/8308
-
 #EXTINF:-1 tvg-id="" tvg-name="MUS-Telehit (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-MUSICA",MUS-Telehit (M)(SD)
 http://vipxtreamx.com:8080/LuisNino9317/7a13c8ac003d/8316
 
@@ -187,8 +181,6 @@ http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/86482.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bandamax HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="MUSICA",Bandamax HD
 http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/122553.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Bonus Project 3 (Old skool)" tvg-logo="https://i.ibb.co/kXYYkyj/descarga-2.png" group-title="MUSICA",Bonus Project 3 (Old skool)
-http://alltvmx.com/live/ElmerVillalobos06/c1a718bf6e76ace6/235609.ts
 
 
 
